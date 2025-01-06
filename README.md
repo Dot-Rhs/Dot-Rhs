@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me
+
 I'm Web Developer based in the UK and I really enjoy making absolutely pointless projects that have no real world use other than making myself laugh. I climb rocks, I squat barbells, I play grindcore drums and I "code".
 
 ---
@@ -28,8 +29,8 @@ I'm Web Developer based in the UK and I really enjoy making absolutely pointless
 ---
 
 ### Current Live Projects (with limited benefit for humanity)
+
 Steam Viewer: https://steam-viewer.netlify.app/
-Type Goodly: www.typegoodly.com (Very impressive stuff this)
 
 ### :hammer_and_wrench: Languages and Tools :
 
